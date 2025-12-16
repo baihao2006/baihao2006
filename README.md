@@ -5,7 +5,7 @@
 
 <!-- 动态文字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B8B&center=true&vCenter=true&width=435&lines=热爱编程的业余爱好者，创意设计爱好者，持续学习中...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HELLO WORLD!">
 </p>
 
 <!-- 个人简介卡片 -->
@@ -13,28 +13,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20github%20世界%20%20&fontSize=40&fontColor=fff&animation=twinkling" alt="Header"/>
 </div>
 
-</div>
 
 ---
 
 ## 🌟 about me
 
-<!-- 个人信息卡片 -->
-<div align="center">
-
-```javascript
-const developer = {
-  pronouns: "他/她",
-  code: ["JavaScript", "Python", "HTML/CSS"],
-  tools: ["VS Code", "Git", "Figma", "Node.js"],
-  hobbies: ["编程", "数码测评", "音乐", "游戏"],
-  learning: ["React", "TypeScript", "UI/UX设计"]
-};
-```
-
-</div>
-
----
+<!-- 访客计数器 -->
+![](https://komarev.com/ghpvc/?username=baihao2006&color=FF6B8B&style=flat-square)
 
 ## 📱 设备信息
 
@@ -46,7 +31,7 @@ const developer = {
 | 类别 | 设备型号 | 状态 |
 |------|----------|------|
 | **📱 手机** | **realme GT Neo7 Turbo** | 🟢 主力使用 |
-| **💻 电脑** | **MECHREVO PC (R7-7745HX + RTX 4070) **| 🟢 开发主力 |
+| **💻 电脑** | MECHREVO PC (R7-7745HX & RTX 4070) | 🟢 开发主力 |
 
 ![Device Banner](https://img.shields.io/badge/realme-%23FF6A00.svg?style=for-the-badge&logo=realme&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -158,9 +143,6 @@ const developer = {
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
 ---
-
-<!-- 访客计数器 -->
-![](https://komarev.com/ghpvc/?username=baihao2006&color=FF6B8B&style=flat-square)
 
 <!-- 页脚装饰 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
