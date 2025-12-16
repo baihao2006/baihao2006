@@ -1,14 +1,11 @@
-<!-- GitHub个人主页 - 设计精美版 -->
 <div align="center">
 
 # 👋 你好，Welcome to my GitHub Space！
 
-<!-- 动态文字效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HELLO WORLD!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HELLO+WORLD!">
 </p>
 
-<!-- 个人简介卡片 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20github%20世界%20%20&fontSize=40&fontColor=fff&animation=twinkling" alt="Header"/>
 </div>
@@ -18,15 +15,13 @@
 
 ## 🌟 about me
 
-<!-- 访客计数器 -->
-![](https://komarev.com/ghpvc/?username=baihao2006&color=FF6B8B&style=flat-square)
 
-## 📱 设备信息
 
-<!-- 设备卡片 -->
+## 📱 DEVICE
+
 <div align="center">
 
-### 💻 当前主力设备
+### 💻 DEVICE NOW
 
 | 类别 | 设备型号 | 状态 |
 |------|----------|------|
@@ -45,9 +40,8 @@
 
 <div align="center">
 
-### 🌐 与我联系
+### 🌐 FOLLOW ME AS
 
-<!-- 社交媒体按钮网格 -->
 <table align="center">
   <tr>
     <td align="center" width="140" height="120">
@@ -83,22 +77,21 @@
 
 </div>
 
-<!-- 社交媒体详细卡片 -->
 <div align="center">
 
-### 🔗 链接直达
+### 🔗 LINK
 
-| 平台 | 链接/ID | 状态 | 二维码 |
-|------|---------|------|--------|
-| **QQ** | `1926103758` | 🟢 在线 | ![QR Code Placeholder](https://via.placeholder.com/100x100/12B7F6/FFFFFF?text=QQ) |
-| **Bilibili** | [点击访问](https://space.bilibili.com/544645801) | 🟡 偶尔活跃 | ![QR Code Placeholder](https://via.placeholder.com/100x100/FB7299/FFFFFF?text=Bilibili) |
-| **GitHub** | [@baihao2006](https://github.com/baihao2006) | 🟢 活跃更新 | ![QR Code Placeholder](https://via.placeholder.com/100x100/181717/FFFFFF?text=GitHub) |
+| 平台 | 链接/ID | 状态 |
+|------|---------|------|
+| **QQ** | `1926103758` | 🟢 在线 |
+| **Bilibili** | [点击访问](https://space.bilibili.com/544645801) | 🟡 偶尔活跃 |
+| **GitHub** | [@baihao2006](https://github.com/baihao2006) | 🟢 活跃更新 |
 
 </div>
 
 ---
 
-## 📊 GitHub 数据统计
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -114,19 +107,23 @@
 
 ---
 
-## 🛠️ 技术栈与工具
+## 🛠️ TECH STACK
+
 
 <div align="center">
 
 <!-- 技术栈徽章 -->
-### 💻 技术栈
+### 💻 TECH STACK NOW
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🚀 开发环境
+### 🚀 DEVELOPMENT ENVIRONMENT
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -144,7 +141,8 @@
 
 ---
 
-<!-- 页脚装饰 -->
+![](https://komarev.com/ghpvc/?username=baihao2006&color=FF6B8B&style=flat-square)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 
 </div>
