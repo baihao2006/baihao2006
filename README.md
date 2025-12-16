@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20%20github%20世界%20%20&fontSize=40&fontColor=fff&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=40&fontColor=fff&animation=twinkling" alt="Header"/>
 </div>
 
 
