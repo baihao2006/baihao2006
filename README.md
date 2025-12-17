@@ -25,8 +25,8 @@
 
 | 类别 | 设备型号 | 状态 |
 |------|----------|------|
-| **📱 手机** | **realme GT Neo7 Turbo** | 🟢 主力使用 |
-| **💻 电脑** | MECHREVO PC (R7-7745HX & RTX 4070) | 🟢 开发主力 |
+| **📱 手机** | **realme Neo7 Turbo** | 🟢 日常 |
+| **💻 电脑** | MECHREVO PC (R7-7745HX & RTX 4070) | 🟢 开发 |
 
 ![Device Banner](https://img.shields.io/badge/realme-%23FF6A00.svg?style=for-the-badge&logo=realme&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
